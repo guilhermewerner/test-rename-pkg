@@ -1,5 +1,7 @@
 [package]
 name = "test-rename-pkg"
+description = "Test rename crates.io package"
+license = "MIT"
 version = "0.0.0"
 edition = "2018"
 
